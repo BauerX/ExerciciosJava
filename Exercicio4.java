@@ -1,3 +1,5 @@
+// mostre 4 notas dos alunos e mostre a média de notas
+
 package exercicio1;
 
 import java.util.Scanner;
