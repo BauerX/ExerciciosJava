@@ -19,7 +19,7 @@ public class Exercicio4 {
 	System.out.println("Nota do Aluno4");
 	float aluno4 = scan.nextFloat();
 	
-	float resultado = aluno1 + aluno2 + aluno3 + aluno4 / 4;
+	float resultado = (aluno1 + aluno2 + aluno3 + aluno4) / 4;
 	
 	System.out.println("A média de notas é: " + resultado);
 	
